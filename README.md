@@ -1,2 +1,2 @@
-# Bengali-Alphabet-
+# Bengali-Alphabet
 Bengali alphabet 
