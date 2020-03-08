@@ -1,6 +1,8 @@
 # Bengali-Alphabet
 
-1. 11 Vowels
+1. There are a total 50 letters, 11 vowels (স্বরবর্ণ) and 39 consonants (ব্যঞ্জনবর্ণ)
+
+2. 11 Vowels
 
 ```
 'অ', 'আ', 'ই', 'ঈ', 'উ', 'ঊ', 'ঋ', 'এ', 'ঐ', 'ও', 'ঔ'
@@ -11,7 +13,7 @@
 ```
 
 
-2. 	39 Consonants
+3. 	39 Consonants
 
 ```
 'ক', 'খ', 'গ', 'ঘ', 'ঙ',
