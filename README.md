@@ -4,6 +4,8 @@
 
 2. The Unicode block for Bengali is U+0980–U+09FF
 
+https://www.unicode.org/charts/PDF/U0980.pdf
+
 3. 11 Vowels
 
 ```
