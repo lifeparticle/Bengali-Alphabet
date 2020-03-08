@@ -2,7 +2,7 @@
 
 1. There are a total 50 letters, 11 vowels (স্বরবর্ণ) and 39 consonants (ব্যঞ্জনবর্ণ)
 
-2. The Unicode block for Bengali is U+0980 – U+09FF (128 code points)
+2. The Unicode block for Bengali is U+0980 – U+09FF (2432-2559) (128 code points)
 
 Assigned: 96 code points
 
@@ -14,6 +14,8 @@ Reserved code points are available for use, but are not yet assigned.
 
 3. 11 Vowels
 
+Unicode range: U+0985 - U+098B (2437 - 2443), U+098F - U+0990 (2447 - 2448) and U+0993 - U+0994 (2451 - 2452)
+
 ```
 'অ', 'আ', 'ই', 'ঈ', 'উ', 'ঊ', 'ঋ', 'এ', 'ঐ', 'ও', 'ঔ'
 ```
@@ -24,6 +26,10 @@ Reserved code points are available for use, but are not yet assigned.
 
 
 4. 	39 Consonants
+
+Unicode range: U+0995 - U+09A8 (2453 - 2472), U+09AA - U+09B0	(2474 - 2480), U+09B2	(2482), U+09B6 - U+09B9	(2486 - 2489), U+09DC - U+09DD	(2524 - 2525), U+09DF	(2527),  U+09CE (2510) U+0981 - U+0983	(2433 - 2435)
+
+
 
 ```
 'ক', 'খ', 'গ', 'ঘ', 'ঙ',
@@ -49,6 +55,8 @@ Reserved code points are available for use, but are not yet assigned.
 
 5. Digits
 
+Unicode range: U+09E6 - U+09EF (2534 - 2543)
+
 ```
 ০
 ১
@@ -60,4 +68,31 @@ Reserved code points are available for use, but are not yet assigned.
 ৭
 ৮
 ৯
+```
+
+```
+"\u09E6",
+"\u09E7",
+"\u09E8",
+"\u09E9",
+"\u09EA",
+"\u09EB",
+"\u09EC",
+"\u09ED",
+"\u09EE",
+"\u09EF"
+```
+
+6. All Unicode ranges
+
+```ruby
+[*2437..2443, *2447..2448, *2451..2452].map {|c| c.chr(Encoding::UTF_8)}
+
+[*2534..2543].map {|c| c.chr(Encoding::UTF_8)}
+
+[*2453..2472, *2474..2480, 2482, *2486..2489, *2524..2525, 2527, 2510, *2433..2435].map {|c| c.chr(Encoding::UTF_8)}
+```
+
+```ruby
+[*2437..2443, *2447..2448, *2451..2452, *2534..2543, *2453..2472, *2474..2480, 2482, *2486..2489, *2524..2525, 2527, 2510, *2433..2435].map {|c| c.chr(Encoding::UTF_8)}
 ```
