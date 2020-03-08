@@ -5,6 +5,7 @@
 2. The Unicode block for Bengali is U+0980 – U+09FF (128 code points)
 
 Assigned: 96 code points
+
 Unused: 32 reserved code points
 
 Reserved code points are available for use, but are not yet assigned.
