@@ -46,3 +46,18 @@ Reserved code points are available for use, but are not yet assigned.
 "\u09B8", "\u09B9", "\u09DC", "\u09DD", "\u09DF",
 "\u09CE", "\u0982", "\u0983", "\u0981"
 ```
+
+5. Digits
+
+```
+০
+১
+২
+৩
+৪
+৫
+৬
+৭
+৮
+৯
+```
