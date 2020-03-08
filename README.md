@@ -83,7 +83,7 @@ Unicode range: U+09E6 - U+09EF (2534 - 2543)
 "\u09EF"
 ```
 
-6. All Unicode ranges
+6. All Unicode ranges (Ruby implementation)
 
 ```ruby
 [*2437..2443, *2447..2448, *2451..2452].map {|c| c.chr(Encoding::UTF_8)}
