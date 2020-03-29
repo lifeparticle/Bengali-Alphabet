@@ -96,3 +96,15 @@ Unicode range: U+09E6 - U+09EF (2534 - 2543)
 ```ruby
 [*2437..2443, *2447..2448, *2451..2452, *2534..2543, *2453..2472, *2474..2480, 2482, *2486..2489, *2524..2525, 2527, 2510, *2433..2435].map {|c| c.chr(Encoding::UTF_8)}
 ```
+
+Bug Reports and Feature Requests
+============
+Please create an issue with as much information you can. Thank you.
+
+Author
+============
+Mahbub Zaman (https://mahbub.ninja)
+
+License
+============
+MIT License
