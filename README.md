@@ -1,4 +1,4 @@
-<h1 align="center">Bengali-Alphabet</h1></br>
+<h1 align="center">Bengali Alphabet</h1></br>
 
 <p align="center">
 <a href="https://github.com/lifeparticle/Bengali-Alphabet/issues"><img alt="contributions welcome" src="https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat"/></a>
