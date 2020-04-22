@@ -1,6 +1,8 @@
 # Bengali-Alphabet
 <div align="center">
+<pre>
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/lifeparticle/Bengali-Alphabet/issues)
+</pre>
 </div>
 1. There are a total `50` letters, `11` vowels (স্বরবর্ণ) and `39` consonants (ব্যঞ্জনবর্ণ)
 
