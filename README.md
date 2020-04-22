@@ -6,30 +6,30 @@
 
 2. The Unicode block for Bengali is U+0980 – U+09FF (2432-2559) (128 code points)
 
-Assigned: 96 code points
+   Assigned: 96 code points
 
-Unused: 32 reserved code points
+   Unused: 32 reserved code points
 
-Reserved code points are available for use, but are not yet assigned.
+   Reserved code points are available for use, but are not yet assigned.
 
-[Source](https://www.unicode.org/charts/PDF/U0980.pdf)
+   [Source](https://www.unicode.org/charts/PDF/U0980.pdf)
 
 3. 11 Vowels
 
-Unicode range: U+0985 - U+098B (2437 - 2443), U+098F - U+0990 (2447 - 2448) and U+0993 - U+0994 (2451 - 2452)
+   Unicode range: `U+0985 - U+098B (2437 - 2443)`, `U+098F - U+0990 (2447 - 2448)` and `U+0993 - U+0994 (2451 - 2452)`
 
-```
-'অ', 'আ', 'ই', 'ঈ', 'উ', 'ঊ', 'ঋ', 'এ', 'ঐ', 'ও', 'ঔ'
-```
+   ```
+   'অ', 'আ', 'ই', 'ঈ', 'উ', 'ঊ', 'ঋ', 'এ', 'ঐ', 'ও', 'ঔ'
+   ```
 
-```
-"\u0985", "\u0986", "\u0987", "\u0988", "\u0989", "\u098A", "\u098B", "\u098F", "\u0990", "\u0993", "\u0994"
-```
+   ```
+   "\u0985", "\u0986", "\u0987", "\u0988", "\u0989", "\u098A", "\u098B", "\u098F", "\u0990", "\u0993", "\u0994"
+   ```
 
 
 4. 	39 Consonants
 
-Unicode range: U+0995 - U+09A8 (2453 - 2472), U+09AA - U+09B0	(2474 - 2480), U+09B2	(2482), U+09B6 - U+09B9	(2486 - 2489), U+09DC - U+09DD (2524 - 2525), U+09DF (2527), U+09CE (2510), U+0981 - U+0983	(2433 - 2435)
+    Unicode range: `U+0995 - U+09A8 (2453 - 2472)`, `U+09AA - U+09B0	(2474 - 2480)`, `U+09B2	(2482)`, `U+09B6 - U+09B9	(2486 - 2489)`, `U+09DC - U+09DD (2524 - 2525)`, `U+09DF (2527)`, `U+09CE (2510`), `U+0981 - U+0983	(2433 - 2435)`
 
 
 
