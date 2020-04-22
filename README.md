@@ -107,7 +107,9 @@
    
 9. `11` Vowel Diacritics
 
-```'None', 'া', 'ি', 'ী', 'ু', 'ূ', 'ে', 'ৈ', 'ো', 'ৌ', 'ৃ'```
+   ```
+   'None', 'া', 'ি', 'ী', 'ু', 'ূ', 'ে', 'ৈ', 'ো', 'ৌ', 'ৃ'
+   ```
 
 | Consonant | Following Vowel | Diacritical form of the vowel | Bengali script | Pronunciation |
 |-----------|-----------------|-------------------------------|----------------|---------------|
