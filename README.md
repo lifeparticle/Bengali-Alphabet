@@ -12,7 +12,6 @@
 
    Reserved code points are available for use, but are not yet assigned.
 
-   [Source](https://www.unicode.org/charts/PDF/U0980.pdf)
 
 3. `11` Vowels
 
@@ -108,6 +107,7 @@ Resources
 3. [Bengali.AI Handwritten Grapheme Classification](https://tongxinw.github.io/bengali.ai/)
 4. [Grapheme](https://en.wikipedia.org/wiki/Grapheme)
 5. [Bengali.ai](https://bengali.ai/)
+6. [Unicode](https://www.unicode.org/charts/PDF/U0980.pdf)
 
 Bug Reports and Feature Requests
 ============
