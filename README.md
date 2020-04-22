@@ -97,9 +97,33 @@
    ```ruby
    [*2437..2443, *2447..2448, *2451..2452, *2534..2543, *2453..2472, *2474..2480, 2482, *2486..2489, *2524..2525, 2527, 2510, *2433..2435].map {|c| c.chr(Encoding::UTF_8)}
    ```
+7. Grapheme
 
-7. Vowel Diacritics in Bengali
+8. Diacritics
 
+   Diacritic is a sign that can be added to letter to change its pronunciation. A diacritic can be added above or below of      a letter.
+   
+   `কু` here `ু` is a vowel Diacritic
+   
+9. `11` Vowel Diacritics
+
+| Consonant | Following Vowel | Diacritical form of the vowel | Bengali script | Pronunciation |
+|-----------|-----------------|-------------------------------|----------------|---------------|
+| ক         | অ               | None                          | ক              | /kɔ/          |
+| ক         | আ               | া                             | কা (= ক + া)   | /ka/          |
+| ক         | ই               | ি                             | কি (= ক + ি)   | /ki/          |
+| ক         | ঈ               | ী                             | কী (= ক + ী)   | /ki/ or /ki:/ |
+| ক         | উ               | ু                             | কু (= ক + ু)   | /ku/          |
+| ক         | ঊ               | ূ                             | কূ (= ক + ূ)   | /ku/ or /ku:/ |
+| ক         | এ               | ে                             | কে (= ক + ে)   | /ke/          |
+| ক         | ঐ               | ৈ                             | কৈ (= ক + ৈ)   | /koi/         |
+| ক         | ও               | ো                             | কো (= ক + ‌ো)  | /ko/          |
+| ক         | ঔ               | ৌ                             | কৌ (= ক + ৌ)   | /kou/         |
+| ক         | ঋ               | ৃ                             | কৃ (= ক + ‌ৃ)  | /kri/         |
+
+10. `7` Consonant Diacritics
+
+TODO
 
 
 Resources
