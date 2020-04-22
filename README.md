@@ -2,19 +2,19 @@
 
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/lifeparticle/Bengali-Alphabet/issues)
 
-1. There are a total 50 letters, 11 vowels (স্বরবর্ণ) and 39 consonants (ব্যঞ্জনবর্ণ)
+1. There are a total `50` letters, `11` vowels (স্বরবর্ণ) and 39 consonants (ব্যঞ্জনবর্ণ)
 
-2. The Unicode block for Bengali is U+0980 – U+09FF (2432-2559) (128 code points)
+2. The Unicode block for Bengali is `U+0980 – U+09FF (2432-2559) (128 code points)`
 
-   Assigned: 96 code points
+   Assigned: `96` code points
 
-   Unused: 32 reserved code points
+   Unused: `32` reserved code points
 
    Reserved code points are available for use, but are not yet assigned.
 
    [Source](https://www.unicode.org/charts/PDF/U0980.pdf)
 
-3. 11 Vowels
+3. `11` Vowels
 
    Unicode range: `U+0985 - U+098B (2437 - 2443)`, `U+098F - U+0990 (2447 - 2448)` and `U+0993 - U+0994 (2451 - 2452)`
 
@@ -27,7 +27,7 @@
    ```
 
 
-4. 	39 Consonants
+4.  `39` Consonants
 
     Unicode range: `U+0995 - U+09A8 (2453 - 2472)`, `U+09AA - U+09B0	(2474 - 2480)`, `U+09B2	(2482)`, `U+09B6 - U+09B9	(2486 - 2489)`, `U+09DC - U+09DD (2524 - 2525)`, `U+09DF (2527)`, `U+09CE (2510`), `U+0981 - U+0983	(2433 - 2435)`
 
@@ -44,16 +44,16 @@
     'ৎ', 'ং', 'ঃ', '‍ঁ'
     ```
 
-     ```
-     "\u0995", "\u0996", "\u0997", "\u0998", "\u0999",
-     "\u099A", "\u099B", "\u099C", "\u099D", "\u099E",
-     "\u099F", "\u09A0", "\u09A1", "\u09A2", "\u09A3",
-     "\u09A4", "\u09A5", "\u09A6", "\u09A7", "\u09A8",
-     "\u09AA", "\u09AB", "\u09AC", "\u09AD", "\u09AE",
-     "\u09AF", "\u09B0", "\u09B2", "\u09B6", "\u09B7",
-     "\u09B8", "\u09B9", "\u09DC", "\u09DD", "\u09DF",
-     "\u09CE", "\u0982", "\u0983", "\u0981"
-     ```
+    ```
+    "\u0995", "\u0996", "\u0997", "\u0998", "\u0999",
+    "\u099A", "\u099B", "\u099C", "\u099D", "\u099E",
+    "\u099F", "\u09A0", "\u09A1", "\u09A2", "\u09A3",
+    "\u09A4", "\u09A5", "\u09A6", "\u09A7", "\u09A8",
+    "\u09AA", "\u09AB", "\u09AC", "\u09AD", "\u09AE",
+    "\u09AF", "\u09B0", "\u09B2", "\u09B6", "\u09B7",
+    "\u09B8", "\u09B9", "\u09DC", "\u09DD", "\u09DF",
+    "\u09CE", "\u0982", "\u0983", "\u0981"
+    ```
 
 5. Digits
 
