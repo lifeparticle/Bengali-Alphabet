@@ -1,5 +1,7 @@
 # Bengali-Alphabet
 
+[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/lifeparticle/Bengali-Alphabet/issues)
+
 1. There are a total 50 letters, 11 vowels (স্বরবর্ণ) and 39 consonants (ব্যঞ্জনবর্ণ)
 
 2. The Unicode block for Bengali is U+0980 – U+09FF (2432-2559) (128 code points)
