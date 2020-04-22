@@ -84,28 +84,17 @@
    "\u09EF"
    ```
 
-6. All Unicode ranges (Ruby implementation)
+6. Grapheme
 
-   ```ruby
-   [*2437..2443, *2447..2448, *2451..2452].map {|c| c.chr(Encoding::UTF_8)}
-
-   [*2534..2543].map {|c| c.chr(Encoding::UTF_8)}
-
-   [*2453..2472, *2474..2480, 2482, *2486..2489, *2524..2525, 2527, 2510, *2433..2435].map {|c| c.chr(Encoding::UTF_8)}
-   ```
-
-   ```ruby
-   [*2437..2443, *2447..2448, *2451..2452, *2534..2543, *2453..2472, *2474..2480, 2482, *2486..2489, *2524..2525, 2527, 2510, *2433..2435].map {|c| c.chr(Encoding::UTF_8)}
-   ```
-7. Grapheme
-
-8. Diacritics
+   TODO
+   
+7. Diacritics
 
    Diacritic is a sign that can be added to a letter to change its pronunciation. A diacritic can be added above or below of      a letter.
    
    `কু` here `ু` is a vowel Diacritic
    
-9. `11` Vowel Diacritics
+8. `11` Vowel Diacritics
 
    Unicode range: `U+09BE - U+09C3 (2494 - 2499)`, `U+09C7 - U+09C8 (2503 - 2504)`, `U+09CB - U+09CC (2507 - 2508)`
 
@@ -115,10 +104,6 @@
    
    ```
    nill,  "\u09BE", "\u09BF", "\u09C0", "\u09C1", "\u09C2", "\u09C7", "\u09C8", "\u09CB", "\u09CC, "\u09C3""
-   ```
-   
-   ```ruby
-   [*2494..2499, *2503..2504, *2507..2508].map {|c| c.chr(Encoding::UTF_8)}
    ```
   
 
@@ -136,9 +121,25 @@
 | ক         | ঔ               | ৌ                             | কৌ (= ক + ৌ)   | /kou/         | Two-part dependent vowel signs |
 | ক         | ঋ               | ৃ                             | কৃ (= ক + ‌ৃ)  | /kri/         | Dependent vowel signs |
 
-10. `7` Consonant Diacritics
+9. `7` Consonant Diacritics
 
 TODO
+
+10. All Unicode ranges (Ruby implementation)
+
+   ```ruby
+   [*2437..2443, *2447..2448, *2451..2452].map {|c| c.chr(Encoding::UTF_8)}
+
+   [*2534..2543].map {|c| c.chr(Encoding::UTF_8)}
+
+   [*2453..2472, *2474..2480, 2482, *2486..2489, *2524..2525, 2527, 2510, *2433..2435].map {|c| c.chr(Encoding::UTF_8)}
+   
+   [*2494..2499, *2503..2504, *2507..2508].map {|c| c.chr(Encoding::UTF_8)}
+   ```
+
+   ```ruby
+   [*2437..2443, *2447..2448, *2451..2452, *2534..2543, *2453..2472, *2474..2480, 2482, *2486..2489, *2524..2525, 2527, 2510, *2433..2435, *2494..2499, *2503..2504, *2507..2508].map {|c| c.chr(Encoding::UTF_8)}
+   ```
 
 
 Resources
