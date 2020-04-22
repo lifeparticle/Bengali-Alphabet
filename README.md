@@ -107,6 +107,8 @@
    
 9. `11` Vowel Diacritics
 
+   Unicode range: `U+09BE - U+09C3 (2494 - 2499)`, `U+09C7 - U+09C8 (2503 - 2504)`, `U+09CB - U+09CC (2507 - 2508)`
+
    ```
    nill, 'া', 'ি', 'ী', 'ু', 'ূ', 'ে', 'ৈ', 'ো', 'ৌ', 'ৃ'
    ```
@@ -115,6 +117,9 @@
    nill,  "\u09BE", "\u09BF", "\u09C0", "\u09C1", "\u09C2", "\u09C7", "\u09C8", "\u09CB", "\u09CC, "\u09C3""
    ```
    
+   ```ruby
+   [*2494..2499, *2503..2504, *2507..2508].map {|c| c.chr(Encoding::UTF_8)}
+   ```
   
 
 | Consonant | Following Vowel | Diacritical form of the vowel | Bengali script | Pronunciation | Info |
