@@ -97,6 +97,18 @@ Unicode range: U+09E6 - U+09EF (2534 - 2543)
 [*2437..2443, *2447..2448, *2451..2452, *2534..2543, *2453..2472, *2474..2480, 2482, *2486..2489, *2524..2525, 2527, 2510, *2433..2435].map {|c| c.chr(Encoding::UTF_8)}
 ```
 
+7. Vowel Diacritics in Bengali
+
+
+
+Resources
+============
+1. [Diacritic](https://en.wikipedia.org/wiki/Diacritic)
+2. [Vowel Diacritics in Bengali](https://en.wikibooks.org/wiki/Bengali/Script/Diacritics)
+3. [Bengali.AI Handwritten Grapheme Classification](https://tongxinw.github.io/bengali.ai/)
+4. [Grapheme](https://en.wikipedia.org/wiki/Grapheme)
+5. [Bengali.ai](https://bengali.ai/)
+
 Bug Reports and Feature Requests
 ============
 Please create an issue with as much information you can. Thank you.
