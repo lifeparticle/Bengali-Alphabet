@@ -101,7 +101,7 @@
 
 8. Diacritics
 
-   Diacritic is a sign that can be added to letter to change its pronunciation. A diacritic can be added above or below of      a letter.
+   Diacritic is a sign that can be added to a letter to change its pronunciation. A diacritic can be added above or below of      a letter.
    
    `কু` here `ু` is a vowel Diacritic
    
