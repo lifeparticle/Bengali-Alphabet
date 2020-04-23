@@ -127,19 +127,7 @@ TODO
 
 10. All Unicode ranges (Ruby implementation)
 
-   ```ruby
-   [*2437..2443, *2447..2448, *2451..2452].map {|c| c.chr(Encoding::UTF_8)}
-
-   [*2534..2543].map {|c| c.chr(Encoding::UTF_8)}
-
-   [*2453..2472, *2474..2480, 2482, *2486..2489, *2524..2525, 2527, 2510, *2433..2435].map {|c| c.chr(Encoding::UTF_8)}
-   
-   [*2494..2499, *2503..2504, *2507..2508].map {|c| c.chr(Encoding::UTF_8)}
-   ```
-
-   ```ruby
-   [*2437..2443, *2447..2448, *2451..2452, *2534..2543, *2453..2472, *2474..2480, 2482, *2486..2489, *2524..2525, 2527, 2510, *2433..2435, *2494..2499, *2503..2504, *2507..2508].map {|c| c.chr(Encoding::UTF_8)}
-   ```
+   <a href="https://github.com/lifeparticle/Bengali-Alphabet/blob/master/unicode.rb"><img alt="ruby-script" src="https://img.shields.io/badge/ruby-script-red.svg?style=flat"/></a>
 
 
 Resources
