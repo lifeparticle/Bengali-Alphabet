@@ -127,7 +127,7 @@ TODO
 
 10. All Unicode ranges (Ruby implementation)
 
-   <a href="https://github.com/lifeparticle/Bengali-Alphabet/blob/master/unicode.rb"><img alt="ruby-script" src="https://img.shields.io/badge/ruby-script-red.svg?style=flat"/></a>
+    <a href="https://github.com/lifeparticle/Bengali-Alphabet/blob/master/unicode.rb"><img alt="ruby-script" src="https://img.shields.io/badge/ruby-script-red.svg?style=flat"/></a>
 
 
 Resources
