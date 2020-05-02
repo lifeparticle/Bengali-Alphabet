@@ -119,20 +119,6 @@ nill, া, ি, ী, ু, ূ, ে, ৈ, ো, ৌ, ৃ
 nill,  "\u09BE", "\u09BF", "\u09C0", "\u09C1", "\u09C2", "\u09C7", "\u09C8", "\u09CB", "\u09CC, "\u09C3""
 ```
 
-| Consonant | Following Vowel | Diacritical form of the vowel | Bengali script | Pronunciation | Info |
-|-----------|-----------------|-------------------------------|----------------|---------------|---------------
-| ক         | অ               | None                          | ক              | /kɔ/          | Dependent vowel signs |
-| ক         | আ               | া                             | কা (= ক + া)   | /ka/          | Dependent vowel signs |
-| ক         | ই               | ি                             | কি (= ক + ি)   | /ki/          | Dependent vowel signs |
-| ক         | ঈ               | ী                             | কী (= ক + ী)   | /ki/ or /ki:/ | Dependent vowel signs |
-| ক         | উ               | ু                             | কু (= ক + ু)   | /ku/          | Dependent vowel signs |
-| ক         | ঊ               | ূ                             | কূ (= ক + ূ)   | /ku/ or /ku:/ | Dependent vowel signs |
-| ক         | এ               | ে                             | কে (= ক + ে)   | /ke/          | Dependent vowel signs |
-| ক         | ঐ               | ৈ                             | কৈ (= ক + ৈ)   | /koi/         | Dependent vowel signs |
-| ক         | ও               | ো                             | কো (= ক + ‌ো)  | /ko/          | Two-part dependent vowel signs |
-| ক         | ঔ               | ৌ                             | কৌ (= ক + ৌ)   | /kou/         | Two-part dependent vowel signs |
-| ক         | ঋ               | ৃ                             | কৃ (= ক + ‌ৃ)  | /kri/         | Dependent vowel signs |
-
 Consonant Diacritics
 ============
 There are `7` Consonant Diacritics
