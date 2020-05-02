@@ -7,9 +7,9 @@
 Table of Contents
 =================
    * [Introduction](#introduction)
-   * [Vowels](#vowels)
-   * [Consonants](#consonants)
-   * [Digits](#digits)
+   * [Vowels (স্বরবর্ণ)](#vowels-স্বরবর্ণ)
+   * [Consonants (ব্যঞ্জনবর্ণ)](#consonants-ব্যঞ্জনবর্ণ)
+   * [Numbers (সংখ্যা)](#numbers-সংখ্যা)
    * [Graphem](#graphem)
    * [Diacritics (অণুচিহ্ন)](#diacritics-অণুচিহ্ন)
    * [Vowel Diacritics](#vowel-diacritics)
@@ -19,7 +19,6 @@ Table of Contents
    * [Bug Reports and Feature Requests](#bug-reports-and-feature-requests)
    * [Author](#author)
    * [License](#license)
-
 
 Introduction
 ============
@@ -33,7 +32,7 @@ Unused: `32` reserved code points
 
 Reserved code points are available for use, but are not yet assigned.
 
-Vowels
+Vowels (স্বরবর্ণ)
 ============
 There are `11` Vowels
 
@@ -51,7 +50,7 @@ Unicode range: `U+0985 - U+098B (2437 - 2443)`, `U+098F - U+0990 (2447 - 2448)` 
 "\u0985", "\u0986", "\u0987", "\u0988", "\u0989", "\u098A", "\u098B", "\u098F", "\u0990", "\u0993", "\u0994"
 ```
 
-Consonants
+Consonants (ব্যঞ্জনবর্ণ)
 ============
 There are `39` Consonants
 
@@ -69,7 +68,6 @@ There are `39` Consonants
 Consonants can found at the beginning, at the end, and at the middle of the word.
 
 ```কলম, সকল, আকাশ```
-
 
 | Consonant class (বর্গ, barga)  | 1st<br>consonant (voiceless, not aspirated) | 2nd<br>consonant (voiceless, aspirated) | 3rd<br>consonant (voiced, not aspirated) | 4th<br>consonant (voiced, aspirated) | 5th<br>consonant (nasal) |
 |--------------------------------|------------------------------------------|--------------------------------------|---------------------------------------|-----------------------------------|-----------------------|
@@ -92,8 +90,7 @@ Unicode range: `U+0995 - U+09A8 (2453 - 2472)`, `U+09AA - U+09B0	(2474 - 2480)`,
 "\u09CE", "\u0982", "\u0983", "\u0981"
 ```
 
-
-Digits
+Numbers (সংখ্যা)
 ============
 ```
 ০
