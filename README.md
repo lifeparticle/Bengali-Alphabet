@@ -70,14 +70,6 @@ Consonants can found at the beginning, at the end, and at the middle of the word
 
 ```কলম, সকল, আকাশ```
 
-| Consonant class (বর্গ, barga)  | 1st<br>consonant (voiceless, not aspirated) | 2nd<br>consonant (voiceless, aspirated) | 3rd<br>consonant (voiced, not aspirated) | 4th<br>consonant (voiced, aspirated) | 5th<br>consonant (nasal) |
-|--------------------------------|------------------------------------------|--------------------------------------|---------------------------------------|-----------------------------------|-----------------------|
-| ক-বর্গ (ka-barga)               | ক /k/                                    | খ /kʰ/                               | গ /g/                                 | ঘ /gʱ/                            | ঙ /ŋ/                 |
-| চ-বর্গ (ca-barga)               | চ /t͡ʃ/                                    | ছ /t͡ʃʰ/                              | জ /d͡ʒ/                               | ঝ /d͡ʒʱ/                           | ঞ /n/                 |
-| ট-বর্গ (ṭa-barga)               | ট /ʈ/                                     | ঠ /ʈʰ/                               | ড /ɖ/                                 | ঢ /ɖʱ/                            | ণ /n/                 |
-| ত-বর্গ (ta-barga)               | ত /t/                                    | থ /tʰ/                               | দ /d/                                 | ধ /dʱ/                            | ন /n/                  |
-| প-বর্গ (pa-barga)               | প /p/                                    | ফ /pʰ/                               | ব /b/                                 | ভ /bʱ/                            | ম /m/                  |
-
 Unicode range: `U+0995 - U+09A8 (2453 - 2472)`, `U+09AA - U+09B0	(2474 - 2480)`, `U+09B2	(2482)`, `U+09B6 - U+09B9	(2486 - 2489)`, `U+09DC - U+09DD (2524 - 2525)`, `U+09DF (2527)`, `U+09CE (2510`), `U+0981 - U+0983	(2433 - 2435)`
 
 ```
