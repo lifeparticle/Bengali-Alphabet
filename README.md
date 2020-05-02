@@ -83,6 +83,8 @@ Unicode range: `U+0995 - U+09A8 (2453 - 2472)`, `U+09AA - U+09B0	(2474 - 2480)`,
 "\u09CE", "\u0982", "\u0983", "\u0981"
 ```
 
+[Consonants](https://github.com/lifeparticle/Bengali-Alphabet/blob/master/consonants.md)
+
 Numbers (সংখ্যা)
 ============
 ```
@@ -118,6 +120,8 @@ nill, া, ি, ী, ু, ূ, ে, ৈ, ো, ৌ, ৃ
 ```
 nill,  "\u09BE", "\u09BF", "\u09C0", "\u09C1", "\u09C2", "\u09C7", "\u09C8", "\u09CB", "\u09CC, "\u09C3""
 ```
+
+[Vowel Diacritics](https://github.com/lifeparticle/Bengali-Alphabet/blob/master/vowel_diacritics.md)
 
 Consonant Diacritics
 ============
