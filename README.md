@@ -14,6 +14,7 @@ Table of Contents
    * [Diacritics (অণুচিহ্ন)](#diacritics-অণুচিহ্ন)
    * [Vowel Diacritics](#vowel-diacritics)
    * [Consonant Diacritics](#consonant-diacritics)
+   * [Conjunctive](#conjunctive)
    * [All Unicode ranges (Ruby implementation)](#all-unicode-ranges-ruby-implementation)
    * [Resources](#resources)
    * [Bug Reports and Feature Requests](#bug-reports-and-feature-requests)
@@ -148,6 +149,10 @@ There are `7` Consonant Diacritics
 nill, ্ (hôsônto or hôlônto),
 ```
 
+Conjunctive
+============
+[Conjunctive](https://github.com/lifeparticle/Bengali-Alphabet/blob/master/conjunctive.md)
+
 All Unicode ranges (Ruby implementation)
 ============
 <a href="https://github.com/lifeparticle/Bengali-Alphabet/blob/master/unicode.rb"><img alt="ruby-script" src="https://img.shields.io/badge/ruby-script-red.svg?style=flat"/></a>
@@ -162,6 +167,7 @@ Resources
 6. [Unicode](https://www.unicode.org/charts/PDF/U0980.pdf)
 7. [Consonants](https://en.wikibooks.org/wiki/Bengali/Script/Consonants_1)
 8. [Bengali numerals](https://en.wikipedia.org/wiki/Bengali_numerals)
+9. [Conjunctive](https://bn.wikibooks.org/wiki/বাংলা_যুক্তাক্ষর)
 
 Bug Reports and Feature Requests
 ============
