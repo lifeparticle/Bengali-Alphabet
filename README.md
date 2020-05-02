@@ -43,7 +43,7 @@ There are `11` Vowels
 
 Vowels can found at the beginning, at the end, and at the middle of the word.
 
-অলংকার, আউশ, বই
+```অলংকার, আউশ, বই```
 
 
 Unicode range: `U+0985 - U+098B (2437 - 2443)`, `U+098F - U+0990 (2447 - 2448)` and `U+0993 - U+0994 (2451 - 2452)`
@@ -68,7 +68,7 @@ There are `39` Consonants
 
 Consonants can found at the beginning, at the end, and at the middle of the word.
 
-কলম, সকল, আকাশ
+```কলম, সকল, আকাশ```
 
 
 | Consonant class (বর্গ, barga)  | 1st<br>consonant (voiceless, not aspirated) | 2nd<br>consonant (voiceless, aspirated) | 3rd<br>consonant (voiced, not aspirated) | 4th<br>consonant (voiced, aspirated) | 5th<br>consonant (nasal) |
