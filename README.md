@@ -67,6 +67,7 @@ There are `39` Consonants
 ```
 
 Consonants can found at the beginning, at the end, and at the middle of the word.
+
 কলম, সকল, আকাশ
 
 
