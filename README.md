@@ -179,6 +179,7 @@ Resources
 5. [Bengali.ai](https://bengali.ai/)
 6. [Unicode](https://www.unicode.org/charts/PDF/U0980.pdf)
 7. [Consonants](https://en.wikibooks.org/wiki/Bengali/Script/Consonants_1)
+8. [Bengali numerals](https://en.wikipedia.org/wiki/Bengali_numerals)
 
 Bug Reports and Feature Requests
 ============
