@@ -46,9 +46,8 @@
    ৎ, ং, ঃ, ঁ
    ```
    
-   4.2.
-   
-   
+   4.2. Consonants can found at the beginning, at the end, and at the middle of the word.
+   কলম, সকল, আকাশ
    
    4.3.
    | Consonant class (বর্গ, barga)  | 1st consonant (voiceless, not aspirated) | 2nd consonant (voiceless, aspirated) | 3rd consonant (voiced, not aspirated) | 4th consonant (voiced, aspirated) | 5th consonant (nasal) |
