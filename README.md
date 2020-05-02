@@ -17,16 +17,23 @@
 
 3. `11` Vowels
 
-   Unicode range: `U+0985 - U+098B (2437 - 2443)`, `U+098F - U+0990 (2447 - 2448)` and `U+0993 - U+0994 (2451 - 2452)`
+   3.1. Unicode range: `U+0985 - U+098B (2437 - 2443)`, `U+098F - U+0990 (2447 - 2448)` and `U+0993 - U+0994 (2451 - 2452)`
 
+   
+   3.2.
    ```
    অ, আ, ই, ঈ, উ, ঊ, ঋ, এ, ঐ, ও, ঔ
    ```
 
+   3.3.
    ```
    "\u0985", "\u0986", "\u0987", "\u0988", "\u0989", "\u098A", "\u098B", "\u098F", "\u0990", "\u0993", "\u0994"
    ```
-
+   
+   3.4. Vowels can found at the beginning, at the end, and at the middle of the word.
+   
+   `অলংকার`, আউশ, বই
+   
 
 4.  `39` Consonants
 
@@ -96,7 +103,7 @@
 
    TODO
    
-7. Diacritics
+7. Diacritics (অণুচিহ্ন)
 
    Diacritic is a sign that can be added to a letter to change its pronunciation. A diacritic can be added above or below of      a letter.
    
