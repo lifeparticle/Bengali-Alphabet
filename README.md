@@ -32,7 +32,7 @@
    
    3.4. Vowels can found at the beginning, at the end, and at the middle of the word.
    
-   `অলংকার`, আউশ, বই
+   অলংকার, আউশ, বই
    
 
 4.  `39` Consonants
