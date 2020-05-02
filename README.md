@@ -53,6 +53,14 @@
     "\u09B8", "\u09B9", "\u09DC", "\u09DD", "\u09DF",
     "\u09CE", "\u0982", "\u0983", "\u0981"
     ```
+    
+    | Consonant class (বর্গ, barga)  | 1st consonant (voiceless, not aspirated) | 2nd consonant (voiceless, aspirated) | 3rd consonant (voiced, not aspirated) | 4th consonant (voiced, aspirated) | 5th consonant (nasal) |
+|--------------------------------|------------------------------------------|--------------------------------------|---------------------------------------|-----------------------------------|-----------------------|
+| ক-বর্গ (ka-barga)              | ক /k/                                    | খ /kʰ/                               | গ /g/                                 | ঘ /gʱ/                            | ঙ /ŋ/                 |
+| চ-বর্গ (ca-barga)              | চ /t͡ʃ/                                  | ছ /t͡ʃʰ/                             | জ /d͡ʒ/                               | ঝ /d͡ʒʱ/                          | ঞ /n/                 |
+| ট-বর্গ (ṭa-barga, /ʈɔ bɔrgɔ/)  | ট /ʈ/                                    | ঠ /ʈʰ/                               | ড /ɖ/                                 | ঢ /ɖʱ/                            | ণ /n/                 |
+| ত-বর্গ (ta-barga, /t̪ɔ bɔrgɔ/) | ত /t/                                    | থ /tʰ/                               | দ /d/                                 | ধ /dʱ/                            | ন /n/                 |
+| প-বর্গ (pa-barga, /pɔ bɔrgɔ/)  | প /p/                                    | ফ /pʰ/                               | ব /b/                                 | ভ /bʱ/                            | ম /m/                 |
 
 5. Digits
 
@@ -123,7 +131,9 @@
 
 9. `7` Consonant Diacritics
 
-TODO
+   ```
+   nill, ্ (hôsônto or hôlônto),  
+   ```
 
 10. All Unicode ranges (Ruby implementation)
 
@@ -138,6 +148,7 @@ Resources
 4. [Grapheme](https://en.wikipedia.org/wiki/Grapheme)
 5. [Bengali.ai](https://bengali.ai/)
 6. [Unicode](https://www.unicode.org/charts/PDF/U0980.pdf)
+7. [Consonants](https://en.wikibooks.org/wiki/Bengali/Script/Consonants_1)
 
 Bug Reports and Feature Requests
 ============
