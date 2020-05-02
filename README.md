@@ -54,7 +54,7 @@
     "\u09CE", "\u0982", "\u0983", "\u0981"
     ```
     
-    | Consonant class (বর্গ, barga)  | 1st consonant (voiceless, not aspirated) | 2nd consonant (voiceless, aspirated) | 3rd consonant (voiced, not aspirated) | 4th consonant (voiced, aspirated) | 5th consonant (nasal) |
+| Consonant class (বর্গ, barga)  | 1st consonant (voiceless, not aspirated) | 2nd consonant (voiceless, aspirated) | 3rd consonant (voiced, not aspirated) | 4th consonant (voiced, aspirated) | 5th consonant (nasal) |
 |--------------------------------|------------------------------------------|--------------------------------------|---------------------------------------|-----------------------------------|-----------------------|
 | ক-বর্গ (ka-barga)              | ক /k/                                    | খ /kʰ/                               | গ /g/                                 | ঘ /gʱ/                            | ঙ /ŋ/                 |
 | চ-বর্গ (ca-barga)              | চ /t͡ʃ/                                  | ছ /t͡ʃʰ/                             | জ /d͡ʒ/                               | ঝ /d͡ʒʱ/                          | ঞ /n/                 |
