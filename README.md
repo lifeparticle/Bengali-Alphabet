@@ -131,6 +131,8 @@ There are `6` Consonant Diacritics
 য-ফলা, ব-ফলা, ম-ফলা, ণ/ন-ফলা, র-ফলা, ল-ফলা
 ```
 
+[Consonant Diacritics](https://github.com/lifeparticle/Bengali-Alphabet/blob/master/consonant_diacritics.md)
+
 Conjunctive (যুক্তাক্ষর)
 ============
 
@@ -171,6 +173,7 @@ Resources
 7. [Consonants](https://en.wikibooks.org/wiki/Bengali/Script/Consonants_1)
 8. [Bengali numerals](https://en.wikipedia.org/wiki/Bengali_numerals)
 9. [Conjunctive](https://bn.wikibooks.org/wiki/বাংলা_যুক্তাক্ষর)
+10.[ফলা](https://bn.wiktionary.org/wiki/ফলা)
 
 Bug Reports and Feature Requests
 ============
