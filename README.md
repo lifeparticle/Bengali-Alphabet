@@ -185,8 +185,9 @@ Resources
 6.  [Unicode](https://www.unicode.org/charts/PDF/U0980.pdf)
 7.  [Consonants](https://en.wikibooks.org/wiki/Bengali/Script/Consonants_1)
 8.  [Bengali numerals](https://en.wikipedia.org/wiki/Bengali_numerals)
-9.  [Conjunctive](https://bn.wikibooks.org/wiki/বাংলা_যুক্তাক্ষর)
-10. [Fola](https://bn.wiktionary.org/wiki/ফলা)
+9.  [Conjuncts](https://bn.wikibooks.org/wiki/বাংলা_যুক্তাক্ষর)
+10. [Conjuncts]https://en.wikibooks.org/wiki/Bengali/Script/Conjuncts_1
+11. [Fola](https://bn.wiktionary.org/wiki/ফলা)
 
 Bug Reports and Feature Requests
 ============
