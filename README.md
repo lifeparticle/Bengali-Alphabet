@@ -68,11 +68,11 @@ There are `39` Consonants
 ৎ, ং, ঃ, ঁ
 ```
 
-Consonants can found at the beginning, at the end, and at the middle of the word.
+- Consonants can found at the beginning, at the end, and at the middle of the word.
 
 ```কলম, সকল, আকাশ```
 
-```ং, ঃ, ঁ``` are used after Vowels and before Consonants.
+- ```ং, ঃ, ঁ``` are used after Vowels and before Consonants.
 
 Unicode range: `U+0995 - U+09A8 (2453 - 2472)`, `U+09AA - U+09B0	(2474 - 2480)`, `U+09B2	(2482)`, `U+09B6 - U+09B9	(2486 - 2489)`, `U+09DC - U+09DD (2524 - 2525)`, `U+09DF (2527)`, `U+09CE (2510`), `U+0981 - U+0983	(2433 - 2435)`
 
@@ -120,6 +120,14 @@ Unicode range: `U+09BE - U+09C3 (2494 - 2499)`, `U+09C7 - U+09C8 (2503 - 2504)`,
 ```
 া, ি, ী, ু, ূ, ে, ৈ, ো, ৌ, ৃ
 ```
+
+- Vowel Diacritics can found at the beginning, at the end, and at the middle of the word.
+- When we vowel join with a consonant we use the short form of the vowel (Vowel Diacritics).
+- ```া, ী``` are added after consonants.
+- ```ি, ে, ৈ``` are added before consonants.
+- ```ু, ূ, ৃ``` are added below consonants.
+- ```ো, ৌ``` are added before and after consonants.
+
 
 ```
 "\u09BE", "\u09BF", "\u09C0", "\u09C1", "\u09C2", "\u09C7", "\u09C8", "\u09CB", "\u09CC, "\u09C3""
