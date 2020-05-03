@@ -14,7 +14,7 @@ Table of Contents
    * [Diacritics (অণুচিহ্ন)](#diacritics-অণুচিহ্ন)
    * [Vowel Diacritics (কার)](#vowel-diacritics-কার)
    * [Consonant Diacritics (ফলা)](#consonant-diacritics-ফলা)
-   * [Conjunctive (যুক্তাক্ষর)](#conjunctive-যুক্তাক্ষর)
+   * [Consonant Conjuncts (যুক্তাক্ষর)](#consonant-conjuncts-যুক্তাক্ষর)
    * [All Unicode ranges (Ruby implementation)](#all-unicode-ranges-ruby-implementation)
    * [Resources](#resources)
    * [Bug Reports and Feature Requests](#bug-reports-and-feature-requests)
@@ -145,8 +145,9 @@ There are `6` Consonant Diacritics
 
 [Consonant Diacritics](https://github.com/lifeparticle/Bengali-Alphabet/blob/master/consonant_diacritics.md)
 
-Conjunctive (যুক্তাক্ষর)
+Consonant Conjuncts (যুক্তাক্ষর)
 ============
+A conjunct is n a combination of two consonants.
 
 ```
 ক্ক, ক্ট, ক্ট্র, ক্ত, ক্ত্র, ক্ন, ক্ব, ক্ম, ক্য, ক্র, ক্ল, ক্ষ, ক্ষ্ণ, ক্ষ্ব, ক্ষ্ম, ক্ষ্ম্য, ক্ষ্য,
@@ -168,7 +169,7 @@ Conjunctive (যুক্তাক্ষর)
 স্র, স্ল, হ্ণ, হ্ন, হ্ব, হ্ম, হ্য, হ্র, হ্ল
 ```
 
-[Conjunctive](https://github.com/lifeparticle/Bengali-Alphabet/blob/master/conjunctive.md)
+[Conjunctive](https://github.com/lifeparticle/Bengali-Alphabet/blob/master/consonant_conjuncts.md)
 
 All Unicode ranges (Ruby implementation)
 ============
