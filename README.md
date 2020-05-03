@@ -164,17 +164,16 @@ All Unicode ranges (Ruby implementation)
 
 Resources
 ============
-1. [Diacritic](https://en.wikipedia.org/wiki/Diacritic)
-2. [Vowel Diacritics in Bengali](https://en.wikibooks.org/wiki/Bengali/Script/Diacritics)
-3. [Bengali.AI Handwritten Grapheme Classification](https://tongxinw.github.io/bengali.ai/)
-4. [Grapheme](https://en.wikipedia.org/wiki/Grapheme)
-5. [Bengali.ai](https://bengali.ai/)
-6. [Unicode](https://www.unicode.org/charts/PDF/U0980.pdf)
-7. [Consonants](https://en.wikibooks.org/wiki/Bengali/Script/Consonants_1)
-8. [Bengali numerals](https://en.wikipedia.org/wiki/Bengali_numerals)
-9. [Conjunctive](https://bn.wikibooks.org/wiki/বাংলা_যুক্তাক্ষর)
-
-10.[Fola](https://bn.wiktionary.org/wiki/ফলা)
+1.  [Diacritic](https://en.wikipedia.org/wiki/Diacritic)
+2.  [Vowel Diacritics in Bengali](https://en.wikibooks.org/wiki/Bengali/Script/Diacritics)
+3.  [Bengali.AI Handwritten Grapheme Classification](https://tongxinw.github.io/bengali.ai/)
+4.  [Grapheme](https://en.wikipedia.org/wiki/Grapheme)
+5.  [Bengali.ai](https://bengali.ai/)
+6.  [Unicode](https://www.unicode.org/charts/PDF/U0980.pdf)
+7.  [Consonants](https://en.wikibooks.org/wiki/Bengali/Script/Consonants_1)
+8.  [Bengali numerals](https://en.wikipedia.org/wiki/Bengali_numerals)
+9.  [Conjunctive](https://bn.wikibooks.org/wiki/বাংলা_যুক্তাক্ষর)
+10. [Fola](https://bn.wiktionary.org/wiki/ফলা)
 
 Bug Reports and Feature Requests
 ============
