@@ -70,6 +70,8 @@ Consonants can found at the beginning, at the end, and at the middle of the word
 
 ```কলম, সকল, আকাশ```
 
+````ং, ঃ, ঁ``` are used after Vowels and before Consonants
+
 Unicode range: `U+0995 - U+09A8 (2453 - 2472)`, `U+09AA - U+09B0	(2474 - 2480)`, `U+09B2	(2482)`, `U+09B6 - U+09B9	(2486 - 2489)`, `U+09DC - U+09DD (2524 - 2525)`, `U+09DF (2527)`, `U+09CE (2510`), `U+0981 - U+0983	(2433 - 2435)`
 
 ```
