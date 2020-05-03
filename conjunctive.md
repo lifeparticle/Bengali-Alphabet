@@ -4,7 +4,7 @@
 ক + ◌্ = ক্
 ```
 
-| Number | Unicode  | Conjunction | Example   |
+| Number | Bengali script  | Conjunction | Example   |
 |--------|----------|-------------|-----------|
 | 1      | ক্ + ক   | ক্ক         | আক্কেল    |
 | 2      | ক্ + ট   | ক্ট         | ডক্টর     |
