@@ -130,7 +130,7 @@ Consonant Diacritics (ফলা)
 There are `6` Consonant Diacritics
 
 ```
-য-ফলা, ব-ফলা, ম-ফলা, ণ/ন-ফলা, র-ফলা, ল-ফলা
+য-ফলা, ব-ফলা, ম-ফলা, ণ/ন-ফলা, র-ফলা or রেফ, ল-ফলা
 ```
 
 [Consonant Diacritics](https://github.com/lifeparticle/Bengali-Alphabet/blob/master/consonant_diacritics.md)
