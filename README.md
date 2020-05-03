@@ -93,15 +93,21 @@ Numbers (সংখ্যা)
 ০, ১, ২, ৩, ৪, ৫, ৬, ৭, ৮, ৯
 ```
 
+-  Bengali numerals have no horizontal headstroke (মাত্রা or matra).
+
 Unicode range: `U+09E6 - U+09EF (2534 - 2543)`
 
 ```
 "\u09E6", "\u09E7", "\u09E8", "\u09E9", "\u09EA", "\u09EB", "\u09EC", "\u09ED", "\u09EE", "\u09EF"
 ```
 
+Phoneme
+============
+A Phoneme is the smallest unit of sound.
+
 Graphem
 ============
-TODO
+A grapheme is the smallest unit of a writing system which represents a Phoneme.
 
 Diacritics (অণুচিহ্ন)
 ============
@@ -118,7 +124,7 @@ There are `10` Vowel Diacritics. There is no short form of `অ`.
 ```
 
 - Vowel Diacritics can found at the beginning, at the end, and at the middle of the word.
-- When we vowel join with a consonant we use the short form of the vowel (Vowel Diacritics).
+- When we join a vowel with a consonant we use the short form of that vowel (Vowel Diacritics).
 - ```া, ী``` are added after consonants.
 - ```ি, ে, ৈ``` are added before consonants.
 - ```ু, ূ, ৃ``` are added below consonants.
@@ -134,7 +140,7 @@ Unicode range: `U+09BE - U+09C3 (2494 - 2499)`, `U+09C7 - U+09C8 (2503 - 2504)`,
 
 Consonant Diacritics (ফলা)
 ============
-There are `6` Consonant Diacritics
+There are `6` Consonant Diacritics.
 
 ```
 য-ফলা, ব-ফলা, ম-ফলা, ণ/ন-ফলা, র-ফলা or রেফ, ল-ফলা
