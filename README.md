@@ -109,26 +109,26 @@ Diacritic is a sign that can be added to a letter to change its pronunciation. A
 
 Vowel Diacritics
 ============
-There are `11` Vowel Diacritics
+There are `10` Vowel Diacritics
 
 Unicode range: `U+09BE - U+09C3 (2494 - 2499)`, `U+09C7 - U+09C8 (2503 - 2504)`, `U+09CB - U+09CC (2507 - 2508)`
 
 ```
-nill, া, ি, ী, ু, ূ, ে, ৈ, ো, ৌ, ৃ
+া, ি, ী, ু, ূ, ে, ৈ, ো, ৌ, ৃ
 ```
 
 ```
-nill,  "\u09BE", "\u09BF", "\u09C0", "\u09C1", "\u09C2", "\u09C7", "\u09C8", "\u09CB", "\u09CC, "\u09C3""
+"\u09BE", "\u09BF", "\u09C0", "\u09C1", "\u09C2", "\u09C7", "\u09C8", "\u09CB", "\u09CC, "\u09C3""
 ```
 
 [Vowel Diacritics](https://github.com/lifeparticle/Bengali-Alphabet/blob/master/vowel_diacritics.md)
 
 Consonant Diacritics
 ============
-There are `7` Consonant Diacritics
+There are `6` Consonant Diacritics
 
 ```
-nill, ্ (hôsônto or hôlônto),
+য-ফলা, ব-ফলা, ম-ফলা, ণ/ন-ফলা, র-ফলা, ল-ফলা
 ```
 
 Conjunctive (যুক্তাক্ষর)
