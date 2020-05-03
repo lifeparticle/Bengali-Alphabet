@@ -168,7 +168,7 @@ A conjunct is a combination of two consonants.
 স্র, স্ল, হ্ণ, হ্ন, হ্ব, হ্ম, হ্য, হ্র, হ্ল
 ```
 
-[Conjunctive](https://github.com/lifeparticle/Bengali-Alphabet/blob/master/consonant_conjuncts.md)
+[Consonant Conjunct](https://github.com/lifeparticle/Bengali-Alphabet/blob/master/consonant_conjuncts.md)
 
 All Unicode ranges (Ruby implementation)
 ============
