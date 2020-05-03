@@ -21,8 +21,6 @@ Table of Contents
    * [Author](#author)
    * [License](#license)
 
-Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
-
 Introduction
 ============
 There are a total `50` letters, `11` vowels (স্বরবর্ণ) and `39` consonants (ব্যঞ্জনবর্ণ)
