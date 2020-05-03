@@ -10,6 +10,7 @@ Table of Contents
    * [Vowels (স্বরবর্ণ)](#vowels-স্বরবর্ণ)
    * [Consonants (ব্যঞ্জনবর্ণ)](#consonants-ব্যঞ্জনবর্ণ)
    * [Numbers (সংখ্যা)](#numbers-সংখ্যা)
+   * [Phoneme](#phoneme)
    * [Graphem](#graphem)
    * [Diacritics (অণুচিহ্ন)](#diacritics-অণুচিহ্ন)
    * [Vowel Diacritics (কার)](#vowel-diacritics-কার)
