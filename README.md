@@ -109,7 +109,7 @@ Diacritic is a sign that can be added to a letter to change its pronunciation. A
 
 `কু` here `ু` is a vowel Diacritic
 
-Vowel Diacritics
+Vowel Diacritics (কার)
 ============
 There are `10` Vowel Diacritics
 
@@ -125,7 +125,7 @@ Unicode range: `U+09BE - U+09C3 (2494 - 2499)`, `U+09C7 - U+09C8 (2503 - 2504)`,
 
 [Vowel Diacritics](https://github.com/lifeparticle/Bengali-Alphabet/blob/master/vowel_diacritics.md)
 
-Consonant Diacritics
+Consonant Diacritics (ফলা)
 ============
 There are `6` Consonant Diacritics
 
