@@ -111,7 +111,7 @@ Diacritic is a sign that can be added to a letter to change its pronunciation. A
 
 Vowel Diacritics (কার)
 ============
-There are `10` Vowel Diacritics
+There are `10` Vowel Diacritics. There is no short form of অ. 
 
 Unicode range: `U+09BE - U+09C3 (2494 - 2499)`, `U+09C7 - U+09C8 (2503 - 2504)`, `U+09CB - U+09CC (2507 - 2508)`
 
