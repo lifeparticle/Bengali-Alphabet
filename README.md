@@ -12,14 +12,16 @@ Table of Contents
    * [Numbers (সংখ্যা)](#numbers-সংখ্যা)
    * [Graphem](#graphem)
    * [Diacritics (অণুচিহ্ন)](#diacritics-অণুচিহ্ন)
-   * [Vowel Diacritics](#vowel-diacritics)
-   * [Consonant Diacritics](#consonant-diacritics)
+   * [Vowel Diacritics (কার)](#vowel-diacritics-কার)
+   * [Consonant Diacritics (ফলা)](#consonant-diacritics-ফলা)
    * [Conjunctive (যুক্তাক্ষর)](#conjunctive-যুক্তাক্ষর)
    * [All Unicode ranges (Ruby implementation)](#all-unicode-ranges-ruby-implementation)
    * [Resources](#resources)
    * [Bug Reports and Feature Requests](#bug-reports-and-feature-requests)
    * [Author](#author)
    * [License](#license)
+
+Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 
 Introduction
 ============
