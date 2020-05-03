@@ -115,8 +115,6 @@ Vowel Diacritics (কার)
 ============
 There are `10` Vowel Diacritics. There is no short form of `অ`. 
 
-Unicode range: `U+09BE - U+09C3 (2494 - 2499)`, `U+09C7 - U+09C8 (2503 - 2504)`, `U+09CB - U+09CC (2507 - 2508)`
-
 ```
 া, ি, ী, ু, ূ, ে, ৈ, ো, ৌ, ৃ
 ```
@@ -128,6 +126,7 @@ Unicode range: `U+09BE - U+09C3 (2494 - 2499)`, `U+09C7 - U+09C8 (2503 - 2504)`,
 - ```ু, ূ, ৃ``` are added below consonants.
 - ```ো, ৌ``` are added before and after consonants.
 
+Unicode range: `U+09BE - U+09C3 (2494 - 2499)`, `U+09C7 - U+09C8 (2503 - 2504)`, `U+09CB - U+09CC (2507 - 2508)`
 
 ```
 "\u09BE", "\u09BF", "\u09C0", "\u09C1", "\u09C2", "\u09C7", "\u09C8", "\u09CB", "\u09CC, "\u09C3""
