@@ -147,7 +147,7 @@ There are `6` Consonant Diacritics
 
 Consonant Conjuncts (যুক্তাক্ষর)
 ============
-A conjunct is n a combination of two consonants.
+A conjunct is a combination of two consonants.
 
 ```
 ক্ক, ক্ট, ক্ট্র, ক্ত, ক্ত্র, ক্ন, ক্ব, ক্ম, ক্য, ক্র, ক্ল, ক্ষ, ক্ষ্ণ, ক্ষ্ব, ক্ষ্ম, ক্ষ্ম্য, ক্ষ্য,
