@@ -118,14 +118,13 @@ Diacritic is a sign that can be added to a letter to change its pronunciation. A
 
 Vowel Diacritics (কার)
 ============
-There are `10` Vowel Diacritics. There is no short form of `অ`. 
+When we join a vowel with a consonant we use the short form of that vowel (Vowel Diacritics). There are `10` Vowel Diacritics. There is no short form of `অ`. 
 
 ```
 া, ি, ী, ু, ূ, ে, ৈ, ো, ৌ, ৃ
 ```
 
 - Vowel Diacritics can found at the beginning, at the end, and at the middle of the word.
-- When we join a vowel with a consonant we use the short form of that vowel (Vowel Diacritics).
 - ```া, ী``` are added after consonants.
 - ```ি, ে, ৈ``` are added before consonants.
 - ```ু, ূ, ৃ``` are added below consonants.
