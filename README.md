@@ -200,6 +200,10 @@ Bug Reports and Feature Requests
 ============
 Please create an issue with as much information you can. Thank you.
 
+Contributing guidelines
+============
+<a href="https://github.com/lifeparticle/Bengali-Alphabet/blob/master/CONTRIBUTING.md"><img alt="contributing guidelines" src="https://img.shields.io/badge/contributing-guidelines-brightgreen.svg?style=flat"/></a>
+
 Author
 ============
 Mahbub Zaman (https://mahbub.ninja)
