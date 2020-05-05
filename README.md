@@ -19,6 +19,7 @@ Table of Contents
    * [All Unicode ranges (Ruby implementation)](#all-unicode-ranges-ruby-implementation)
    * [Resources](#resources)
    * [Bug Reports and Feature Requests](#bug-reports-and-feature-requests)
+   * [Contributing guidelines](#contributing-guidelines)
    * [Author](#author)
    * [License](#license)
 
