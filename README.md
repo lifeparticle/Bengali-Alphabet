@@ -34,6 +34,10 @@ Unused: `32` reserved code points
 
 Reserved code points are available for use, but are not yet assigned.
 
+When Vowels are silent after Consonants we use hosonto or holonto `্` under that Consonant.
+
+```ক্ +	অ = ক```
+
 Vowels (স্বরবর্ণ)
 ============
 There are `11` Vowels
