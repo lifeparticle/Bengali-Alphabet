@@ -19,7 +19,7 @@ Table of Contents
    * [All Unicode ranges (Ruby implementation)](#all-unicode-ranges-ruby-implementation)
    * [Resources](#resources)
    * [Bug Reports and Feature Requests](#bug-reports-and-feature-requests)
-   * [Contributing guidelines](#contributing-guidelines)
+   * [Contribution Guidelines](#contributing-guidelines)
    * [Author](#author)
    * [License](#license)
 
@@ -201,7 +201,7 @@ Bug Reports and Feature Requests
 ============
 Please create an issue with as much information you can. Thank you.
 
-Contributing guidelines
+Contribution Guidelines
 ============
 <a href="https://github.com/lifeparticle/Bengali-Alphabet/blob/master/CONTRIBUTING.md"><img alt="contributing guidelines" src="https://img.shields.io/badge/contributing-guidelines-brightgreen.svg?style=flat"/></a>
 
