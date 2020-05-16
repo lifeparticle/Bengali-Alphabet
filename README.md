@@ -25,7 +25,7 @@ Table of Contents
 
 Introduction
 ============
-There are a total `50` letters, `11` vowels (স্বরবর্ণ) and `39` consonants (ব্যঞ্জনবর্ণ)
+There are a total of `50` letters, `11` vowels (স্বরবর্ণ) and `39` consonants (ব্যঞ্জনবর্ণ)
 
 The Unicode block for Bengali is `U+0980 – U+09FF (2432-2559) (128 code points)`
 
@@ -33,9 +33,9 @@ Assigned: `96` code points
 
 Unused: `32` reserved code points
 
-Reserved code points are available for use, but are not yet assigned.
+Reserved code points are available for use but are not yet assigned.
 
-When a vowels is silent after a consonants we use hosonto or holonto `্` under that consonant.
+When a vowel is silent after a consonant, we use hosonto or holonto `্` under that consonant.
 
 ```ক্ +	অ = ক```
 
@@ -47,7 +47,7 @@ There are `11` Vowels
 অ, আ, ই, ঈ, উ, ঊ, ঋ, এ, ঐ, ও, ঔ
 ```
 
-Vowels can found at the beginning, at the end, and at the middle of the word.
+Vowels can found at the beginning, at the end, and in the middle of the word.
 
 ```অলংকার, আউশ, বই```
 
@@ -72,7 +72,7 @@ There are `39` Consonants
 ৎ, ং, ঃ, ঁ
 ```
 
-- Consonants can found at the beginning, at the end, and at the middle of the word.
+- Consonants can found at the beginning, at the end, and in the middle of the word.
 
   ```কলম, সকল, আকাশ```
 
@@ -113,23 +113,23 @@ A Phoneme is the smallest unit of sound.
 
 Graphem
 ============
-A grapheme is the smallest unit of a writing system which represents a Phoneme.
+A grapheme is the smallest unit of a writing system that represents a Phoneme.
 
 Diacritics (অণুচিহ্ন)
 ============
-Diacritic is a sign that can be added to a letter to change its pronunciation. A diacritic can be added above or below of      a letter.
+Diacritic is a sign that can be added to a letter to change its pronunciation. A diacritic can be added above or below a letter.
 
 `কু` here `ু` is a vowel Diacritic
 
 Vowel Diacritics (কার)
 ============
-When we join a vowel with a consonant we use the short form of that vowel (Vowel Diacritics). There are `10` Vowel Diacritics. There is no short form of `অ`. 
+When we join a vowel with a consonant, we use the short form of that vowel (Vowel Diacritics). There are `10` Vowel Diacritics. There is no short form of `অ`. 
 
 ```
 া, ি, ী, ু, ূ, ে, ৈ, ো, ৌ, ৃ
 ```
 
-- Vowel Diacritics can found at the beginning, at the end, and at the middle of the word.
+- Vowel Diacritics can found at the beginning, at the end, and in the middle of the word.
 - ```া, ী``` are added after consonants.
 - ```ি, ে, ৈ``` are added before consonants.
 - ```ু, ূ, ৃ``` are added below consonants.
