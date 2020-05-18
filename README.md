@@ -192,7 +192,7 @@ Resources
 9.  [Conjuncts](https://bn.wikibooks.org/wiki/বাংলা_যুক্তাক্ষর)
 10. [Conjuncts](https://en.wikibooks.org/wiki/Bengali/Script/Conjuncts_1)
 11. [Fola](https://bn.wiktionary.org/wiki/ফলা)
-12. [Hôsôntô]https://en.wiktionary.org/wiki/%E0%A7%8D
+12. [Hôsôntô](https://en.wiktionary.org/wiki/%E0%A7%8D)
 
 Bug Reports and Feature Requests
 ============
