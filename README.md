@@ -1,4 +1,8 @@
-<h1 align="center">Bengali-Alphabet</h1></br>
+![Bengali-Alphabet](https://user-images.githubusercontent.com/1612112/82218216-e8353c80-995e-11ea-9130-59cda0d75544.png)
+
+<p align="center">
+Photo by <a href="https://unsplash.com/@alivka">Alice Butenko</a> and <a href="https://unsplash.com/@kellysikkema">Kelly Sikkema</a> on <a href="https://unsplash.com/">Unsplash</a>
+</p>
 
 <p align="center">
 <a href="https://github.com/lifeparticle/Bengali-Alphabet/issues"><img alt="contributions welcome" src="https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat"/></a>
