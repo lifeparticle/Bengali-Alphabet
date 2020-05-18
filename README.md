@@ -35,9 +35,12 @@ Unused: `32` reserved code points
 
 Reserved code points are available for use but are not yet assigned.
 
-When a vowel is silent after a consonant, we use hosonto or holonto `্` under that consonant.
+When the inherent vowel of a consonant is silent, we use hôsôntô (হসন্ত) `্` under that consonant.
 
-```ক্ +	অ = ক```
+```
+ক্ kɔ (বক)
+ছ chô (আছ)
+``` 
 
 Vowels (স্বরবর্ণ)
 ============
@@ -189,6 +192,7 @@ Resources
 9.  [Conjuncts](https://bn.wikibooks.org/wiki/বাংলা_যুক্তাক্ষর)
 10. [Conjuncts](https://en.wikibooks.org/wiki/Bengali/Script/Conjuncts_1)
 11. [Fola](https://bn.wiktionary.org/wiki/ফলা)
+12. [Hôsôntô]https://en.wiktionary.org/wiki/%E0%A7%8D
 
 Bug Reports and Feature Requests
 ============
