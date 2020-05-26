@@ -42,8 +42,8 @@ Reserved code points are available for use but are not yet assigned.
 When the inherent vowel of a consonant is silent, we use hôsôntô (হসন্ত) `্` under that consonant.
 
 ```
-ক্ kɔ (বক)
-ছ chô (আছ)
+ক্ kɔ (বক) (bok)
+ছ chô (আছ) (acho)
 ``` 
 
 Vowels (স্বরবর্ণ)
