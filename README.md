@@ -29,13 +29,13 @@ Table of Contents
 
 Introduction
 ============
-There are a total of `50` letters, `11` vowels (স্বরবর্ণ) and `39` consonants (ব্যঞ্জনবর্ণ)
+There are a total of `50` letters, `11` vowels (স্বরবর্ণ) and `39` consonants (ব্যঞ্জনবর্ণ).
 
-The Unicode block for Bengali is `U+0980 – U+09FF (2432-2559) (128 code points)`
+The Unicode block for Bengali is `U+0980 – U+09FF (2432-2559) (128 code points)`.
 
-Assigned: `96` code points
+Assigned: `96` code points.
 
-Unused: `32` reserved code points
+Unused: `32` reserved code points.
 
 Reserved code points are available for use but are not yet assigned.
 
@@ -48,7 +48,7 @@ When the inherent vowel of a consonant is silent, we use hôsôntô (হসন�
 
 Vowels (স্বরবর্ণ)
 ============
-There are `11` Vowels
+There are `11` Vowels.
 
 ```
 অ, আ, ই, ঈ, উ, ঊ, ঋ, এ, ঐ, ও, ঔ
@@ -66,7 +66,7 @@ Unicode range: `U+0985 - U+098B (2437 - 2443)`, `U+098F - U+0990 (2447 - 2448)` 
 
 Consonants (ব্যঞ্জনবর্ণ)
 ============
-There are `39` Consonants
+There are `39` Consonants.
 
 ```
 ক, খ, গ, ঘ, ঙ,
