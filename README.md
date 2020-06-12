@@ -20,7 +20,7 @@ Table of Contents
    * [Vowel Diacritics (কার)](#vowel-diacritics-কার)
    * [Consonant Diacritics (ফলা)](#consonant-diacritics-ফলা)
    * [Consonant Conjuncts (যুক্তাক্ষর)](#consonant-conjuncts-যুক্তাক্ষর)
-   * [Punctuation (যতিচিহ্ন)](#punctuation-যতিচিহ্)
+   * [Punctuation (যতিচিহ্ন)](#punctuation-যতিচিহ্ন)
    * [All Unicode ranges (Ruby implementation)](#all-unicode-ranges-ruby-implementation)
    * [Resources](#resources)
    * [Bug Reports and Feature Requests](#bug-reports-and-feature-requests)
