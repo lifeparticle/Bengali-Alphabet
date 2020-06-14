@@ -107,10 +107,6 @@ Numbers (সংখ্যা)
 ০, ১, ২, ৩, ৪, ৫, ৬, ৭, ৮, ৯
 ```
 
-```
-শূন্য (shunnô), এক (æk), দুই (dui), তিন (tin), চার (char), পাঁচ (pãch), ছয় (chhôy), সাত (shat), আট (aṭ), নয় (nôy)
-```
-
 -  Bengali numerals have no horizontal headstroke (মাত্রা or matra).
 
 Unicode range: `U+09E6 - U+09EF (2534 - 2543)`
@@ -118,6 +114,8 @@ Unicode range: `U+09E6 - U+09EF (2534 - 2543)`
 ```
 "\u09E6", "\u09E7", "\u09E8", "\u09E9", "\u09EA", "\u09EB", "\u09EC", "\u09ED", "\u09EE", "\u09EF"
 ```
+
+[Numbers](https://github.com/lifeparticle/Bengali-Alphabet/blob/master/numbers.md)]
 
 Phoneme
 ============
