@@ -186,7 +186,7 @@ Punctuation (যতিচিহ্ন)
 ============
 
 ```
-,	;	|	?	!	:	—	: —	-	'	""	()	[]	{}
+,	;	|	?	!	:—	: —	-	'	""	()	[]	{}
 ```
 
 [Punctuation](https://github.com/lifeparticle/Bengali-Alphabet/blob/master/punctuation.md)
