@@ -184,20 +184,13 @@ A conjunct is a combination of two consonants. Below we have 295 consonant conju
 
 Punctuation (যতিচিহ্ন)
 ============
-| No. | Punctuation Mark | Name                  | Pause length                               | Example                   |
-|-----|------------------|-----------------------|--------------------------------------------|----------------------------|
-| 1   | ,                | কমা বা পাদচ্ছেদ       | The time it takes to say ১ (এক) (æk)       | সুখ চাও,সুখ পাবে পরিশ্রমে। |
-| 2   | ;                | সেমিকোলন বা অর্ধচ্ছেদ | Twice the time it takes to say ১ (এক) (æk) |                            |
-| 3   | \|                | দাঁড়ি বা পূর্ণচ্ছেদ  | 1 second                                   |                            |
-| 4   | ?                | প্রশ্নবোধক চিহ্ন      | 1 second                                   |                            |
-| 5   | !                | বিস্ময় চিহ্ন          | 1 second                                   |                            |
-| 6   | :                | কোলন                  | 1 second                                   |                            |
-| 7   | —                | ড্যাস                 | 1 second                                   |                            |
-| 8   | : —              | কোলন ড্যাস            | 1 second                                   |                            |
-| 9   | -                | হাইফেন বা সংযোগ চিহ্ন | no pause                                   |                            |
-| 10  | '                | ইলেক বা লোপচিহ্ন      | no pause                                   |                            |
-| 11  | ""               | উদ্ধৃতি চিহ্ন         | The time it takes to say ১ (এক) (æk)       |                            |
-| 12  | () [] {}         | বন্ধনী চিহ্ন          | no pause                                   |                            |
+
+```
+,	;	|	?	!	:	—	: —	-	'	"" () [] {}
+```
+
+[Punctuation](https://github.com/lifeparticle/Bengali-Alphabet/blob/master/punctuation.md)
+
 
 All Unicode ranges (Ruby implementation)
 ============
