@@ -115,7 +115,7 @@ Unicode range: `U+09E6 - U+09EF (2534 - 2543)`
 "\u09E6", "\u09E7", "\u09E8", "\u09E9", "\u09EA", "\u09EB", "\u09EC", "\u09ED", "\u09EE", "\u09EF"
 ```
 
-[Numbers](https://github.com/lifeparticle/Bengali-Alphabet/blob/master/numbers.md)]
+[Numbers](https://github.com/lifeparticle/Bengali-Alphabet/blob/master/numbers.md)
 
 Phoneme
 ============
