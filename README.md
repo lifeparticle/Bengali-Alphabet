@@ -198,20 +198,7 @@ All Unicode ranges (Ruby implementation)
 
 Resources
 ============
-1.  [Diacritic](https://en.wikipedia.org/wiki/Diacritic)
-2.  [Vowel Diacritics in Bengali](https://en.wikibooks.org/wiki/Bengali/Script/Diacritics)
-3.  [Bengali.AI Handwritten Grapheme Classification](https://tongxinw.github.io/bengali.ai/)
-4.  [Grapheme](https://en.wikipedia.org/wiki/Grapheme)
-5.  [Bengali.ai](https://bengali.ai/)
-6.  [Unicode](https://www.unicode.org/charts/PDF/U0980.pdf)
-7.  [Consonants](https://en.wikibooks.org/wiki/Bengali/Script/Consonants_1)
-8.  [Bengali numerals](https://en.wikipedia.org/wiki/Bengali_numerals)
-9.  [Conjuncts](https://bn.wikibooks.org/wiki/বাংলা_যুক্তাক্ষর)
-10. [Conjuncts](https://en.wikibooks.org/wiki/Bengali/Script/Conjuncts_1)
-11. [Fola](https://bn.wiktionary.org/wiki/ফলা)
-12. [Hôsôntô](https://en.wiktionary.org/wiki/%E0%A7%8D)
-13. [Punctuation](https://bn.wikipedia.org/wiki/যতিচিহ্ন)
-14. [r12a.github.io/scripts/bengali](https://r12a.github.io/scripts/bengali/)
+(Resources)[https://github.com/lifeparticle/Bengali-Alphabet/edit/master/resources.md]
 
 Bug Reports and Feature Requests
 ============
