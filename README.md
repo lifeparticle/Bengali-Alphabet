@@ -198,7 +198,7 @@ All Unicode ranges (Ruby implementation)
 
 Resources
 ============
-(Resources)[https://github.com/lifeparticle/Bengali-Alphabet/edit/master/resources.md]
+[Resources](https://github.com/lifeparticle/Bengali-Alphabet/edit/master/resources.md)
 
 Bug Reports and Feature Requests
 ============
