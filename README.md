@@ -1,7 +1,6 @@
-<img align="center" height="400px" width="700px" src="https://user-images.githubusercontent.com/1612112/82227635-65ff4500-996b-11ea-9b75-88b48d2e2b18.png">
-
-
 <p align="center">
+<img height="400px" width="700px" src="https://user-images.githubusercontent.com/1612112/82227635-65ff4500-996b-11ea-9b75-88b48d2e2b18.png">
+  
 Photo by <a href="https://unsplash.com/@kellysikkema">Kelly Sikkema</a> on <a href="https://unsplash.com/">Unsplash</a>
 </p>
 
