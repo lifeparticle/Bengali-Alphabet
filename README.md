@@ -1,7 +1,7 @@
 <div align="center">
 
 <img height="400px" width="700px" src="https://user-images.githubusercontent.com/1612112/82227635-65ff4500-996b-11ea-9b75-88b48d2e2b18.png">
-  
+
 Photo by <a href="https://unsplash.com/@kellysikkema">Kelly Sikkema</a> on <a href="https://unsplash.com/">Unsplash</a>
 </div>
 
@@ -46,7 +46,7 @@ When the inherent vowel of a consonant is silent, we use hôsôntô (হসন�
 ```
 ক্ kɔ (বক) (bok)
 ছ chô (আছ) (acho)
-``` 
+```
 
 Vowels (স্বরবর্ণ)
 ============
@@ -134,7 +134,7 @@ Diacritic is a sign that can be added to a letter to change its pronunciation. A
 
 Vowel Diacritics (কার)
 ============
-When we join a vowel with a consonant, we use the short form of that vowel (Vowel Diacritics). There are `10` Vowel Diacritics. There is no short form of `অ`. 
+When we join a vowel with a consonant, we use the short form of that vowel (Vowel Diacritics). There are `10` Vowel Diacritics. There is no short form of `অ`.
 
 ```
 া, ি, ী, ু, ূ, ে, ৈ, ো, ৌ, ৃ
@@ -195,7 +195,7 @@ Punctuation (যতিচিহ্ন)
 
 All Unicode ranges (Ruby implementation)
 ============
-<a href="https://github.com/lifeparticle/Bengali-Alphabet/blob/master/unicode.rb"><img alt="ruby-script" src="https://img.shields.io/badge/ruby-script-red.svg?style=flat"/></a>
+<a href="https://github.com/lifeparticle/Bengali-Alphabet/blob/master/unicode/unicode.rb"><img alt="ruby-script" src="https://img.shields.io/badge/ruby-script-red.svg?style=flat"/></a>
 
 Resources
 ============
