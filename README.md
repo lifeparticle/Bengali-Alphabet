@@ -22,7 +22,7 @@ Table of Contents
    * [Consonant Diacritics (ফলা)](#consonant-diacritics-ফলা)
    * [Consonant Conjuncts (যুক্তাক্ষর)](#consonant-conjuncts-যুক্তাক্ষর)
    * [Punctuation (যতিচিহ্ন)](#punctuation-যতিচিহ্ন)
-   * [All Unicode ranges (Ruby implementation)](#all-unicode-ranges-ruby-implementation)
+   * [Unicode](#unicode)
    * [Resources](#resources)
    * [Bug Reports and Feature Requests](#bug-reports-and-feature-requests)
    * [Contribution Guidelines](#contribution-guidelines)
@@ -193,7 +193,7 @@ Punctuation (যতিচিহ্ন)
 [Punctuation](https://github.com/lifeparticle/Bengali-Alphabet/blob/master/punctuation.md)
 
 
-All Unicode ranges (Ruby implementation)
+Unicode
 ============
 <a href="https://github.com/lifeparticle/Bengali-Alphabet/blob/master/unicode/unicode.rb"><img alt="ruby-script" src="https://img.shields.io/badge/ruby-script-red.svg?style=flat"/></a>
 
