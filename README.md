@@ -209,9 +209,13 @@ Contribution Guidelines
 ============
 <a href="https://github.com/lifeparticle/Bengali-Alphabet/blob/master/CONTRIBUTING.md"><img alt="contribution guidelines" src="https://img.shields.io/badge/contribution-guidelines-brightgreen.svg?style=flat"/></a>
 
-Author
+Contributors
 ============
 Mahbub Zaman (https://mahbub.ninja)
+Kawser Ibn (https://github.com/kawseribn)
+Saquib (https://github.com/saquib9)
+Iftekhar Kabir (https://github.com/IftekharKabir7)
+Fahmid Sakib (https://github.com/FahmidSakib)
 
 License
 ============
