@@ -211,11 +211,11 @@ Contribution Guidelines
 
 Contributors
 ============
-Mahbub Zaman (https://mahbub.ninja)
-Kawser Ibn (https://github.com/kawseribn)
-Saquib (https://github.com/saquib9)
-Iftekhar Kabir (https://github.com/IftekharKabir7)
-Fahmid Sakib (https://github.com/FahmidSakib)
+- Mahbub Zaman (https://mahbub.ninja)
+- Kawser Ibn (https://github.com/kawseribn)
+- Saquib (https://github.com/saquib9)
+- Iftekhar Kabir (https://github.com/IftekharKabir7)
+- Fahmid Sakib (https://github.com/FahmidSakib)
 
 License
 ============
