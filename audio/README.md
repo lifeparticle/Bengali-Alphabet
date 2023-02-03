@@ -1,3 +1,10 @@
+- [Vowels (স্বরবর্ণ): 11 Clips](#vowels--11-clips)
+- [Consonants (ব্যঞ্জনবর্ণ): 39 Clips](#consonants--39-clips)
+- [Numbers (সংখ্যা): 10 Clips](#numbers--10-clips)
+- [Vowel Diacritics (কার): 10 Clips](#vowel-diacritics--10-clips)
+- [Consonant Diacritics (ফলা): 6 Clips](#consonant-diacritics--6-clips)
+- [Punctuation (যতিচিহ্ন): 14 Clips](#punctuation--14-clips)
+
 # Vowels (স্বরবর্ণ): 11 Clips
 
 | Vowels |
