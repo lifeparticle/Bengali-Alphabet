@@ -76,7 +76,7 @@
 
 # Vowel Diacritics (কার): 10 Clips
 
-| Column 1 |
+| Vowel Diacritics |
 |----------|
 | [া](./Vowel%20Diacritics/1.wav) |
 | [ি](./Vowel%20Diacritics/2.wav) |
@@ -89,6 +89,18 @@
 | [ৌ](./Vowel%20Diacritics/9.wav) |
 | [ৃ](./Vowel%20Diacritics/10.wav) |
 
+# Consonant Diacritics (ফলা): 6 Clips
 
-# Punctuation (যতিচিহ্ন): 6 Clips
+| Consonant Diacritics |
+|----------|
+| [য-ফলা](./Consonant%20Diacritics/1.wav) |
+| [ব-ফলা](./Consonant%20Diacritics/2.wav) |
+| [ম-ফলা](./Consonant%20Diacritics/3.wav) |
+| [ণ/ন-ফলা](./Consonant%20Diacritics/4.wav) |
+| [র-ফলা or রেফ](./Consonant%20Diacritics/5.wav) |
+| [ল-ফলা](./Consonant%20Diacritics/6.wav) |
+
+
+# Punctuation (যতিচিহ্ন): 13 Clips
+
 
