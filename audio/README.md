@@ -11,3 +11,46 @@
 | [ঐ](./Vowels/9.wav) |
 | [ও](./Vowels/10.wav) |
 | [ঔ](./Vowels/11.wav) |
+
+
+| Consonants |
+|----------|
+| [ক](./Consonants/1.wav) |
+| [খ](./Consonants/2.wav) |
+| [গ](./Consonants/3.wav) |
+| [ঘ](./Consonants/4.wav) |
+| [ঙ](./Consonants/5.wav) |
+| [চ](./Consonants/6.wav) |
+| [ছ](./Consonants/7.wav) |
+| [জ](./Consonants/8.wav) |
+| [ঝ](./Consonants/9.wav) |
+| [ঞ](./Consonants/10.wav) |
+| [ট](./Consonants/11.wav) |
+| [ঠ](./Consonants/12.wav) |
+| [ড](./Consonants/13.wav) |
+| [ঢ](./Consonants/14.wav) |
+| [ণ](./Consonants/15.wav) |
+| [ত](./Consonants/16.wav) |
+| [থ](./Consonants/17.wav) |
+| [দ](./Consonants/18.wav) |
+| [ধ](./Consonants/19.wav) |
+| [ন](./Consonants/20.wav) |
+| [প](./Consonants/21.wav) |
+| [ফ](./Consonants/22.wav) |
+| [ব](./Consonants/23.wav) |
+| [ভ](./Consonants/24.wav) |
+| [ম](./Consonants/25.wav) |
+| [য](./Consonants/26.wav) |
+| [র](./Consonants/27.wav) |
+| [ল](./Consonants/28.wav) |
+| [শ](./Consonants/29.wav) |
+| [ষ](./Consonants/30.wav) |
+| [স](./Consonants/31.wav) |
+| [হ](./Consonants/32.wav) |
+| [ড়](./Consonants/33.wav) |
+| [ঢ়](./Consonants/34.wav) |
+| [য়](./Consonants/35.wav) |
+| [ৎ](./Consonants/36.wav) |
+| [ং](./Consonants/37.wav) |
+| [ঃ](./Consonants/38.wav) |
+| [ঁ](./Consonants/39.wav) |
