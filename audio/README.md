@@ -78,16 +78,16 @@
 
 | Column 1 |
 |----------|
-| [া](./Vowel Diacritics/1.wav) |
-| [ি](./Vowel Diacritics/2.wav) |
-| [ী](./Vowel Diacritics/3.wav) |
-| [ু](./Vowel Diacritics/4.wav) |
-| [ূ](./Vowel Diacritics/5.wav) |
-| [ে](./Vowel Diacritics/6.wav) |
-| [ৈ](./Vowel Diacritics/7.wav) |
-| [ো](./Vowel Diacritics/8.wav) |
-| [ৌ](./Vowel Diacritics/9.wav) |
-| [ৃ](./Vowel Diacritics/10.wav) |
+| [া](./Vowel%20Diacritics/1.wav) |
+| [ি](./Vowel%20Diacritics/2.wav) |
+| [ী](./Vowel%20Diacritics/3.wav) |
+| [ু](./Vowel%20Diacritics/4.wav) |
+| [ূ](./Vowel%20Diacritics/5.wav) |
+| [ে](./Vowel%20Diacritics/6.wav) |
+| [ৈ](./Vowel%20Diacritics/7.wav) |
+| [ো](./Vowel%20Diacritics/8.wav) |
+| [ৌ](./Vowel%20Diacritics/9.wav) |
+| [ৃ](./Vowel%20Diacritics/10.wav) |
 
 
 # Punctuation (যতিচিহ্ন): 6 Clips
