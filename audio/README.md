@@ -101,7 +101,7 @@
 | [ল-ফলা](./Consonant%20Diacritics/6.wav) |
 
 
-# Punctuation (যতিচিহ্ন): 13 Clips
+# Punctuation (যতিচিহ্ন): 14 Clips
 
 | Punctuation |
 |----------|
