@@ -1,3 +1,5 @@
+# Vowels (স্বরবর্ণ): 11 Clips
+
 | Vowels |
 |----------|
 | [অ](./Vowels/1.wav) |
@@ -12,6 +14,7 @@
 | [ও](./Vowels/10.wav) |
 | [ঔ](./Vowels/11.wav) |
 
+# Consonants (ব্যঞ্জনবর্ণ): 39 Clips
 
 | Consonants |
 |----------|
@@ -54,3 +57,38 @@
 | [ং](./Consonants/37.wav) |
 | [ঃ](./Consonants/38.wav) |
 | [ঁ](./Consonants/39.wav) |
+
+# Numbers (সংখ্যা): 10 Clips
+
+| Numbers |
+|----------|
+| [০](./Numbers/1.wav) |
+| [১](./Numbers/2.wav) |
+| [২](./Numbers/3.wav) |
+| [৩](./Numbers/4.wav) |
+| [৪](./Numbers/5.wav) |
+| [৫](./Numbers/6.wav) |
+| [৬](./Numbers/7.wav) |
+| [৭](./Numbers/8.wav) |
+| [৮](./Numbers/9.wav) |
+| [৯](./Numbers/10.wav) |
+
+
+# Vowel Diacritics (কার): 10 Clips
+
+| Column 1 |
+|----------|
+| [া](./Vowel Diacritics/1.wav) |
+| [ি](./Vowel Diacritics/2.wav) |
+| [ী](./Vowel Diacritics/3.wav) |
+| [ু](./Vowel Diacritics/4.wav) |
+| [ূ](./Vowel Diacritics/5.wav) |
+| [ে](./Vowel Diacritics/6.wav) |
+| [ৈ](./Vowel Diacritics/7.wav) |
+| [ো](./Vowel Diacritics/8.wav) |
+| [ৌ](./Vowel Diacritics/9.wav) |
+| [ৃ](./Vowel Diacritics/10.wav) |
+
+
+# Punctuation (যতিচিহ্ন): 6 Clips
+
