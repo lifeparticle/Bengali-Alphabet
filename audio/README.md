@@ -103,4 +103,20 @@
 
 # Punctuation (যতিচিহ্ন): 13 Clips
 
+| Punctuation |
+|----------|
+| [,](./Punctuation/1.wav) |
+| [;](./Punctuation/2.wav) |
+| [\|](./Punctuation/3.wav) |
+| [?](./Punctuation/4.wav) |
+| [!](./Punctuation/5.wav) |
+| [:](./Punctuation/6.wav) |
+| [—](./Punctuation/7.wav) |
+| [:—](./Punctuation/8.wav) |
+| - |
+| ['](./Punctuation/9.wav) |
+| [""](./Punctuation/10.wav) |
+| [()](./Punctuation/11.wav) |
+| [\[\]](./Punctuation/12.wav) |
+| [{}](./Punctuation/13.wav) |
 
