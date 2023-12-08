@@ -197,7 +197,7 @@ Punctuation (যতিচিহ্ন)
 
 Unicode
 ============
-<a href="https://github.com/lifeparticle/Bengali-Alphabet/blob/master/unicode/unicode.rb"><img alt="ruby-script" src="https://img.shields.io/badge/ruby-script-red.svg?style=flat"/></a>
+[Unicode](https://github.com/lifeparticle/Bengali-Alphabet/blob/master/unicode)
 
 Resources
 ============
